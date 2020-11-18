@@ -1,0 +1,124 @@
+
+body {
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    left: 15%;
+
+
+}
+
+.logo {
+
+    padding: 5px 5px;
+
+}
+
+main {
+    width: 800px;
+    height: 100%;
+
+
+}
+
+header {
+    background-image: url("imag/tu-tram-pham-202263 1.png");
+    height: 400px;
+    background-color: rgb(91, 91, 209);
+    color: #ffffff;
+    opacity: 0px;
+
+}
+
+nav {
+
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-between;
+
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-between;
+    list-style: none;
+}
+
+li {
+    display: block;
+    padding: 5px;
+
+}
+
+div {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-between;
+    list-style: none;
+
+}
+
+i {
+    display: block;
+    padding: 15px;
+
+}
+
+h1 {
+    text-align: center;
+    margin-top: 100px;
+}
+h2 {
+    text-align: center;
+    
+}
+p{
+position: relative;
+left: 270px;
+
+}
+.line{
+
+padding: 30px 30px;
+margin: 0%;
+color:red ;
+width: 200;
+align-items: center;
+}
+.section1{
+background-color: #ffffff;
+
+}
+.bluebox{
+width:300px;
+height:300px;
+background-color: rgb(103, 103, 253);
+    
+}
+
+.img2{
+position: relative;
+bottom: 200px;
+left: 200px;
+    width:300px;
+    height:300px;
+}
+.darkbluebox{
+    width:300px;
+    height:300px;
+    background-color: #0000ff;
+
+}
+.section3{
+
+position: relative;
+bottom: 200px;
+left:350px;
+padding: 50px;
+    
+
+}
